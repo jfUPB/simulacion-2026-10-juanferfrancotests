@@ -4,6 +4,7 @@
 
 
 ## Bitácora de aplicación 
+Voy a realizar una modificación de prueba para ver si está protegido el repo
 
 
 ## Bitácora de reflexión
